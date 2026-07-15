@@ -24,7 +24,7 @@
 - **Label-encoded categorical fields and scaled 12 numeric columns**
 
 ### Key Findings
-#### Transaction Velocitu
+#### Transaction Velocity
 **accounts performing four or more transactions within a 24-hour period exhibited dramatically higher fraud rates than lower-activity accounts.**
 
 ### Devive Trust Score
