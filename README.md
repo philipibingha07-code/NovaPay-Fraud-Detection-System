@@ -76,7 +76,12 @@ Split — 80/20 train-test split (16,075 train / 4,019 test rows)
                         
 /  <img width="775" height="330" alt="novapay again" src="https://github.com/user-attachments/assets/2ae70ecb-41fe-46b6-bd70-a260251690b0" />
                                  
-  
+  ### Tools & Libraries
+Python · scikit-learn · pandas · imbalanced-learn (SMOTE) · matplotlib · Tableau
+
+### Author
+**Philip Ibingha — Data Scientist, Predictive Analytics & ML**
+github.com/philipibingha07-code
 
 
 
