@@ -69,12 +69,13 @@ Split — 80/20 train-test split (16,075 train / 4,019 test rows)
 - #### Deploy the Random Forest model as a real-time pre-authorization risk score in the transaction pipeline
 
   ### Repository Structure
- **novapay-fraud-detection**
-│   └── **NovaPay_Fraud_Detection_Presentation.pdf**   # Full slide deck
-├── images/[NovaPay_Fraud_Detection(1). saveed.pdf](https://github.com/user-attachments/files/30050395/NovaPay_Fraud_Detection.1.saveed.pdf)
+ **novapay-fraud-detection**   
+├── .pdf](https://github.com/user-attachments/files/30050395/NovaPay_Fraud_Detection.1.saveed.pdf)
 
-│   └── dashboard.png                              # Tableau dashboard
-└── notebook/                                       # Add your Jupyter notebook / scripts here
+│    <img width="679" height="273" alt="image" src="https://github.com/user-attachments/assets/c5b78e40-da21-4f86-95ee-79e072712df6" />
+                        
+/  <img width="775" height="330" alt="novapay again" src="https://github.com/user-attachments/assets/2ae70ecb-41fe-46b6-bd70-a260251690b0" />
+                                 
   
 
 
