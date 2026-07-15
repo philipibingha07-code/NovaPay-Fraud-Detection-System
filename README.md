@@ -1,6 +1,4 @@
-**An end-to-end fraud detection system that combines exploratory data analysis, feature engineering, machine learning, and business intelligence to identify fraudulent cross-border transactions in real time**.
-
-### Table Of Content
+**An end-to-end fraud detection system that combines exploratory data analysis, feature engineering, machine learning, and business intelligence to identify fraudulent cross-border transactions in real time**
 
 
 ### Project Overview
